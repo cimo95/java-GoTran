@@ -1,4 +1,6 @@
 # java-GoTran
+**Simple Desktop Google Translate Tool**
+
 - This project is an open-source version of Cimosoft GoTran (https://gotran.cimosoft.com).
 - Here will be shown how the program accesses the server to send translation requests, and displays the results.
 - Since this project was created using Java, the compiled project results can be used on various Java-enabled devices (JRE installed).
